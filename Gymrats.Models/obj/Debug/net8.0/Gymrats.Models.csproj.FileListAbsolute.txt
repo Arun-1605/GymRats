@@ -1,0 +1,11 @@
+F:\Gymbook API\Gymrats.Models\bin\Debug\net8.0\Gymrats.Models.deps.json
+F:\Gymbook API\Gymrats.Models\bin\Debug\net8.0\Gymrats.Models.dll
+F:\Gymbook API\Gymrats.Models\bin\Debug\net8.0\Gymrats.Models.pdb
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\Gymrats.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\Gymrats.Models.AssemblyInfoInputs.cache
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\Gymrats.Models.AssemblyInfo.cs
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\Gymrats.Models.csproj.CoreCompileInputs.cache
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\Gymrats.Models.dll
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\refint\Gymrats.Models.dll
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\Gymrats.Models.pdb
+F:\Gymbook API\Gymrats.Models\obj\Debug\net8.0\ref\Gymrats.Models.dll

@@ -1,0 +1,17 @@
+F:\Gymbook API\Gymrats.DataAccessLayer\bin\Debug\net8.0\Gymrats.DataAccessLayer.deps.json
+F:\Gymbook API\Gymrats.DataAccessLayer\bin\Debug\net8.0\Gymrats.DataAccessLayer.dll
+F:\Gymbook API\Gymrats.DataAccessLayer\bin\Debug\net8.0\Gymrats.DataAccessLayer.pdb
+F:\Gymbook API\Gymrats.DataAccessLayer\bin\Debug\net8.0\Gymrats.Models.dll
+F:\Gymbook API\Gymrats.DataAccessLayer\bin\Debug\net8.0\Gymrats.Models.pdb
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.csproj.AssemblyReference.cache
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.AssemblyInfoInputs.cache
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.AssemblyInfo.cs
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats..8A00FACB.Up2Date
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.dll
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\refint\Gymrats.DataAccessLayer.dll
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.pdb
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\ref\Gymrats.DataAccessLayer.dll
+F:\Gymbook API\Gymrats.DataAccessLayer\bin\Debug\net8.0\Gymrats.DataAccessLayer.runtimeconfig.json
+F:\Gymbook API\Gymrats.DataAccessLayer\obj\Debug\net8.0\Gymrats.DataAccessLayer.genruntimeconfig.cache
